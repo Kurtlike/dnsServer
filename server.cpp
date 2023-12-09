@@ -56,7 +56,7 @@ int main(int argc, char *argv[]) {
       add_dns_record(&records, &new_query->name, &host_list);
     }
     host_list = get_host_list(&records, new_query->name);
-    if (host_list != FULL) {
+    if (host_list != NULL) {
       response_buf = create_dns_response(new_header, new_query, host_list,
                                          &response_buf_len);
     } else {
