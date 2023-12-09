@@ -85,7 +85,7 @@ int main(int argc, char *argv[]) {
   }
 }
 
-//oh, I forgot
+//haha
 int test(){
-    retutn 0;
+    retutn 12;
 }
