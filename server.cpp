@@ -85,13 +85,6 @@ int main(int argc, char *argv[]) {
   }
 }
 
-<<<<<<< HEAD
-//haha
 int test(){
     retutn 12;
-=======
-//new change
-int test(){
-    retutn 1;
->>>>>>> testing
 }
