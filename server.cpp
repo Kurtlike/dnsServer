@@ -84,3 +84,8 @@ int main(int argc, char *argv[]) {
     response_buf_len = 0;
   }
 }
+
+//oh, I forgot
+int test(){
+    retutn 0;
+}
