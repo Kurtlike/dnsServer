@@ -87,6 +87,6 @@ int main(int argc, char *argv[]) {
 
 //haha
 int test(){
-    retutn 8;
+    retutn 1;
 
 }
