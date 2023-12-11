@@ -90,3 +90,7 @@ int test(){
     retutn 1;
 
 }
+int test_3(){
+    retutn 3;
+
+}
